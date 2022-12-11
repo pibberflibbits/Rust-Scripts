@@ -1,9 +1,3 @@
-[package]
-name = "guessing-game"
-version = "0.1.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
-rand = "0.8.3"
+version https://git-lfs.github.com/spec/v1
+oid sha256:476fa882f5a7ca71c480294c8fef46128eb39f162f4cbb75d7ba763d9fa84331
+size 197

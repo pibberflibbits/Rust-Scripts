@@ -1,7 +1,3 @@
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/cfg_if-4b3bb0931f24386e.rmeta: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/libcfg_if-4b3bb0931f24386e.rlib: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/cfg_if-4b3bb0931f24386e.d: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:927c0704416a3135d9acba0838cb75e40a6235aaa371d643c259b1b8fb0300ce
+size 642

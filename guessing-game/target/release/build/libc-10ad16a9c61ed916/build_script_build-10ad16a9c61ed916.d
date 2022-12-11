@@ -1,5 +1,3 @@
-/home/carter/Documents/Rust-Scripts/guessing-game/target/release/build/libc-10ad16a9c61ed916/build_script_build-10ad16a9c61ed916: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.138/build.rs
-
-/home/carter/Documents/Rust-Scripts/guessing-game/target/release/build/libc-10ad16a9c61ed916/build_script_build-10ad16a9c61ed916.d: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.138/build.rs
-
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.138/build.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fc3fb237561ef7e0889966d1152a53aacb9cc98f7f2d3093fd598ef216b4f63
+size 514

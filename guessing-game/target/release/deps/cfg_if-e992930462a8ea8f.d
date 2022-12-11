@@ -1,7 +1,3 @@
-/home/carter/Documents/Rust-Scripts/guessing-game/target/release/deps/cfg_if-e992930462a8ea8f.rmeta: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/Documents/Rust-Scripts/guessing-game/target/release/deps/libcfg_if-e992930462a8ea8f.rlib: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/Documents/Rust-Scripts/guessing-game/target/release/deps/cfg_if-e992930462a8ea8f.d: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs
-
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/cfg-if-1.0.0/src/lib.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e17384f4ed12f0c59759b569c8d32b235e22d249a21cf425b8550a6ea40d58e
+size 645

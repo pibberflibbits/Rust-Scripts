@@ -1,13 +1,3 @@
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/getrandom-a2d15492ce50bb24.rmeta: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/libgetrandom-a2d15492ce50bb24.rlib: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/getrandom-a2d15492ce50bb24.d: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs
-
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/lib.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/error_impls.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/util_libc.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/use_file.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.8/src/linux_android.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b1617f2d961258df6d00eff7572bce5e60e6c687907f5c07e9cfc6c409849f
+size 2909
