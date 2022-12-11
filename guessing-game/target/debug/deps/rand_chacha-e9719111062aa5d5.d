@@ -1,9 +1,3 @@
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/rand_chacha-e9719111062aa5d5.rmeta: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/chacha.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/guts.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/librand_chacha-e9719111062aa5d5.rlib: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/chacha.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/guts.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/rand_chacha-e9719111062aa5d5.d: /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/lib.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/chacha.rs /home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/guts.rs
-
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/lib.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/chacha.rs:
-/home/carter/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_chacha-0.3.1/src/guts.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b85ace812fadf31e87e850312e5cbe1019a44dffd70cd75209fc29a57f3d304
+size 1415

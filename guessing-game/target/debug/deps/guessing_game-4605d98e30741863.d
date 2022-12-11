@@ -1,5 +1,3 @@
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/guessing_game-4605d98e30741863: src/main.rs
-
-/home/carter/Documents/rust-sketches/guessing-game/target/debug/deps/guessing_game-4605d98e30741863.d: src/main.rs
-
-src/main.rs:
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2c1f38cdc232caf92168374a27c20bf2c94c826acac56745c47afc540ada0d8
+size 243
