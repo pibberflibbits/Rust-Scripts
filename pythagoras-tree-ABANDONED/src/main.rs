@@ -38,6 +38,7 @@ fn update(_app: &App, _model: &mut Model, _update: Update) { } fn view(_app: &Ap
         let nextlen = 250.0 * 0.7.pow(depthcalc+1.0) as f32;
         let radius = len / 2.0;
 
+
         draw.quad()
             .color(GREEN)
             .w(len)
