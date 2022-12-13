@@ -20,23 +20,20 @@ fn view(_app: &App, _model: &Model, frame: Frame){
     let draw2 = _app.draw();
 
     // Draw Fractal Tree
-    create_tree(_app, pt2(0.0, 0.0), pt2(0.0, 0.0));
+    create_tree(_app, pt2(0.0, 0.0), pt2(0.0, 50.0), 0.0);
     
     draw2.to_frame(_app, &frame).unwrap();
 }
 
-fn create_tree(_app: &App, spoint: Vec2, epoint: Vec2) {
+fn create_tree(_app: &App, spoint: Vec2, epoint: Vec2, mut depth: f64) {
     
     let mut angle = 0.0;
-    let mut depth = 0.0;
 
-    loop {
     let draw = _app.draw();
     let angleinc = PI / 4.0;
-    let increasecalc = 50.0 * 0.2.pow(depth);
+    let increasecalc = 50.0 * 0.5.pow(depth);
     let increase = increasecalc as f32;
     let nextspoint = spoint * 0.2;
-    let gaming = nextspoint.y as f32;
     let gamingx = nextspoint.x as f32;
     
     draw.line()
@@ -47,16 +44,12 @@ fn create_tree(_app: &App, spoint: Vec2, epoint: Vec2) {
         .color(GREEN);
         angle = angle + angleinc;
         depth = depth + 1.0;
-        dbg!(depth);
+        dbg!(spoint);
         
         if depth < 15.0 {
 
-            create_tree(_app, epoint, pt2(gamingx, increase))
+            create_tree(_app, epoint, pt2(gamingx, increase), depth)
         }
 
-        else {
-            break;
-        }
     }
-}
 
